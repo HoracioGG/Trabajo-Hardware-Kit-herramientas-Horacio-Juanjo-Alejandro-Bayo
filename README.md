@@ -8,7 +8,8 @@
 <p>Descripción: HWiNFO es una herramienta de diagnóstico y monitoreo de hardware para Windows. Proporciona información detallada sobre todos los componentes del sistema, incluyendo CPU, GPU, placas base, unidades de almacenamiento y más. Es ideal para usuarios que necesitan un análisis profundo y en tiempo real del rendimiento y estado de su hardware.</p>
 <a href="">https://www.hwinfo.com/</a>
 <p>-Video de ejemplo de uso:</p>
-<video src="" controls width="600"></video>
+<video src="https://github.com/HoracioGG/Trabajo-Hardware-Kit-herramientas/assets/165705848/8458c8cf-3cea-4823-b992-88f4aa11dbd1" controls width="600"></video>
+
 
 <h1 align="center">2. Testeo disco</a></h1>
 <p>-HD Tune</p>
