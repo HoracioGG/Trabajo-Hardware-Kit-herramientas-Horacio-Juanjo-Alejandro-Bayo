@@ -15,8 +15,7 @@
 <p>Descripción: HD Tune es una utilidad para discos duros y SSDs que permite medir el rendimiento de las unidades, escanear en busca de errores, verificar el estado de salud (S.M.A.R.T.), y realizar borrados seguros de datos. Es una herramienta completa para el mantenimiento y monitoreo de discos de almacenamiento.</p>
 <a href="">https://www.hdtune.com/</a>
 <p>-Video de ejemplo de uso:</p>
-<video src="" controls width="600"></video>
-
+<video src="https://github.com/HoracioGG/Trabajo-Hardware-Kit-herramientas/assets/165705848/36f2e082-984f-477f-ba2e-41608aee4bf4" controls width="600"></video>
 
 <h1 align="center">3. Recuperación de datos</a></h1>
 <p>-Recoverit</p>
