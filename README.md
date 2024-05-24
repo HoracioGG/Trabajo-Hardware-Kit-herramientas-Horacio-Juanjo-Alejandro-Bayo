@@ -38,5 +38,9 @@
 <p>Descripción: MSI Afterburner es una herramienta de overclocking y monitoreo para tarjetas gráficas. Permite a los usuarios ajustar las velocidades de reloj, voltajes y velocidades de los ventiladores de la GPU. Además, ofrece monitoreo en tiempo real del rendimiento de la tarjeta gráfica y la capacidad de grabar video y hacer capturas de pantalla durante el juego.</p>
 <a href="">https://www.msi.com/Landing/afterburner/graphics-cards</a>
 <p>-Video de ejemplo de uso:</p>
-<video src="" controls width="600"></video>
+<video src="https://github.com/HoracioGG/Trabajo-Hardware-Kit-herramientas/assets/165705848/23f79322-ed4b-45f5-b4f2-cc7664c3073c" controls width="600"></video>
+
+
+
+
 
