@@ -1,6 +1,7 @@
 # Trabajo-Hardware-Kit-herramientas
 
 <br>
+<p>Horacio Gomez Garcia,Alejandro Bayo Gomez,Juanjo Campos Gomez</p>
 <br>
 
 <h1 align="center">1. Información del sistema<a name="Conclusiones"></a></h1>
