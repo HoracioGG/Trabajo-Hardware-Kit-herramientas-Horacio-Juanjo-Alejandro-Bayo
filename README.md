@@ -24,15 +24,14 @@
 <p>Descripción: R-Linux es una herramienta gratuita de recuperación de archivos diseñada específicamente para sistemas de archivos Ext2, Ext3 y Ext4 utilizados en Linux y algunos sistemas Unix..</p>
 <a href="https://www.r-studio.com/es/free-linux-recovery/Download.shtml"></a>
 <p>-Video de ejemplo de uso:</p>
-<video src="" controls width="600"></video>
+<video src="https://github.com/HoracioGG/Trabajo-Hardware-Kit-herramientas-Horacio-Juanjo-Alejandro-Bayo/assets/165705848/7e86934d-5dae-476f-bb39-dc7d75aec8b7" controls width="600"></video>
 
 
 <h1 align="center">4. Recuperación de contraseñas.</a></h1>
 <p>-Product Key Viewer</p>
 <p>Descripción: Product Key Viewer es una herramienta de NirSoft que permite recuperar claves de producto (CD keys) de software instalado en el sistema. Es útil para usuarios que necesitan reinstalar software y han perdido sus claves de licencia. Soporta una amplia variedad de programas y versiones de Windows.</p>
 <a href="https://www.nirsoft.net/utils/product_cd_key_viewer.html"></a>
-<p>-Video de ejemplo de uso:</p>
-<video src="" controls width="600"></video>
+<p>-De esta aplicacion no hemos podido sacar un video debido a que nuestros dispositivos tienen las claves capadas</p>
 
 
 <h1 align="center">5. Control de la GPU</a></h1>
